@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ProductService.API\\ProductService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AuthService.API\\AuthService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "LogService.API\\LogService.API.csproj",
+        "Action": "StartWithoutDebugging"
+      },
+      {
+        "Path": "YarpGateway\\YarpGateway.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

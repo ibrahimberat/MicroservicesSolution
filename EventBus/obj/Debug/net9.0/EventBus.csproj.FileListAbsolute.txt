@@ -1,0 +1,11 @@
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\EventBus\bin\Debug\net9.0\EventBus.deps.json
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\EventBus\bin\Debug\net9.0\EventBus.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\EventBus\bin\Debug\net9.0\EventBus.pdb
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\EventBus\obj\Debug\net9.0\EventBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\EventBus\obj\Debug\net9.0\EventBus.AssemblyInfoInputs.cache
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\EventBus\obj\Debug\net9.0\EventBus.AssemblyInfo.cs
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\EventBus\obj\Debug\net9.0\EventBus.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\EventBus\obj\Debug\net9.0\EventBus.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\EventBus\obj\Debug\net9.0\refint\EventBus.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\EventBus\obj\Debug\net9.0\EventBus.pdb
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\EventBus\obj\Debug\net9.0\ref\EventBus.dll

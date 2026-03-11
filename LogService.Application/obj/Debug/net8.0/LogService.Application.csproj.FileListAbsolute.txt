@@ -1,0 +1,15 @@
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\bin\Debug\net8.0\LogService.Application.deps.json
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\bin\Debug\net8.0\LogService.Application.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\bin\Debug\net8.0\LogService.Application.pdb
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\bin\Debug\net8.0\LogService.Domain.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\bin\Debug\net8.0\LogService.Domain.pdb
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\obj\Debug\net8.0\LogService.Application.csproj.AssemblyReference.cache
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\obj\Debug\net8.0\LogService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\obj\Debug\net8.0\LogService.Application.AssemblyInfoInputs.cache
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\obj\Debug\net8.0\LogService.Application.AssemblyInfo.cs
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\obj\Debug\net8.0\LogService.Application.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\obj\Debug\net8.0\LogServi.F535C710.Up2Date
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\obj\Debug\net8.0\LogService.Application.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\obj\Debug\net8.0\refint\LogService.Application.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\obj\Debug\net8.0\LogService.Application.pdb
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Application\obj\Debug\net8.0\ref\LogService.Application.dll

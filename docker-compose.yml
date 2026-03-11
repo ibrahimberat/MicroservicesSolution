@@ -1,0 +1,73 @@
+version: '3.8'
+
+services:
+  # SQL Server for Auth and Product services
+  sql-server:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: microservices-sql
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=YourStrong!Password123
+    ports:
+      - "1433:1433"
+    volumes:
+      - sql-data:/var/opt/mssql
+    networks:
+      - microservices-network
+    restart: unless-stopped
+
+  # Redis for caching
+  redis:
+    image: redis:alpine
+    container_name: microservices-redis
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis-data:/data
+    networks:
+      - microservices-network
+    restart: unless-stopped
+
+  # RabbitMQ for event-driven architecture
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: microservices-rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      - RABBITMQ_DEFAULT_USER=guest
+      - RABBITMQ_DEFAULT_PASS=guest
+    volumes:
+      - rabbitmq-data:/var/lib/rabbitmq
+    networks:
+      - microservices-network
+    restart: unless-stopped
+
+  # Seq for log aggregation
+  seq:
+    image: datalust/seq:latest
+    container_name: microservices-seq
+    ports:
+      - "5341:80"
+    environment:
+      - ACCEPT_EULA=Y
+    volumes:
+      - seq-data:/data
+    networks:
+      - microservices-network
+    restart: unless-stopped
+
+networks:
+  microservices-network:
+    driver: bridge
+
+volumes:
+  sql-data:
+    driver: local
+  redis-data:
+    driver: local
+  rabbitmq-data:
+    driver: local
+  seq-data:
+    driver: local

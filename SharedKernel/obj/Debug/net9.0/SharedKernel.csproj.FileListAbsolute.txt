@@ -1,0 +1,11 @@
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\SharedKernel\bin\Debug\net9.0\SharedKernel.deps.json
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\SharedKernel\bin\Debug\net9.0\SharedKernel.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\SharedKernel\bin\Debug\net9.0\SharedKernel.pdb
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\SharedKernel\obj\Debug\net9.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\SharedKernel\obj\Debug\net9.0\SharedKernel.AssemblyInfoInputs.cache
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\SharedKernel\obj\Debug\net9.0\SharedKernel.AssemblyInfo.cs
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\SharedKernel\obj\Debug\net9.0\SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\SharedKernel\obj\Debug\net9.0\SharedKernel.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\SharedKernel\obj\Debug\net9.0\refint\SharedKernel.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\SharedKernel\obj\Debug\net9.0\SharedKernel.pdb
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\SharedKernel\obj\Debug\net9.0\ref\SharedKernel.dll

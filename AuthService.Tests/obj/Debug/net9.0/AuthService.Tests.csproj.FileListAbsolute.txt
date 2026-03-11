@@ -1,0 +1,11 @@
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\AuthService.Tests\bin\Debug\net9.0\AuthService.Tests.deps.json
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\AuthService.Tests\bin\Debug\net9.0\AuthService.Tests.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\AuthService.Tests\bin\Debug\net9.0\AuthService.Tests.pdb
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\AuthService.Tests\obj\Debug\net9.0\AuthService.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\AuthService.Tests\obj\Debug\net9.0\AuthService.Tests.AssemblyInfoInputs.cache
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\AuthService.Tests\obj\Debug\net9.0\AuthService.Tests.AssemblyInfo.cs
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\AuthService.Tests\obj\Debug\net9.0\AuthService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\AuthService.Tests\obj\Debug\net9.0\AuthService.Tests.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\AuthService.Tests\obj\Debug\net9.0\refint\AuthService.Tests.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\AuthService.Tests\obj\Debug\net9.0\AuthService.Tests.pdb
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\AuthService.Tests\obj\Debug\net9.0\ref\AuthService.Tests.dll

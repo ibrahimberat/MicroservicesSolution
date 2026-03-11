@@ -1,0 +1,11 @@
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Tests\bin\Debug\net9.0\LogService.Tests.deps.json
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Tests\bin\Debug\net9.0\LogService.Tests.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Tests\bin\Debug\net9.0\LogService.Tests.pdb
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Tests\obj\Debug\net9.0\LogService.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Tests\obj\Debug\net9.0\LogService.Tests.AssemblyInfoInputs.cache
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Tests\obj\Debug\net9.0\LogService.Tests.AssemblyInfo.cs
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Tests\obj\Debug\net9.0\LogService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Tests\obj\Debug\net9.0\LogService.Tests.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Tests\obj\Debug\net9.0\refint\LogService.Tests.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Tests\obj\Debug\net9.0\LogService.Tests.pdb
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\LogService.Tests\obj\Debug\net9.0\ref\LogService.Tests.dll

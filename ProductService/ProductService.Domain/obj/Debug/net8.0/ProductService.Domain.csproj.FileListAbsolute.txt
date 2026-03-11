@@ -1,0 +1,12 @@
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\ProductService\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.deps.json
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\ProductService\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\ProductService\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.pdb
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.csproj.AssemblyReference.cache
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.AssemblyInfoInputs.cache
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.AssemblyInfo.cs
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\ProductService\ProductService.Domain\obj\Debug\net8.0\refint\ProductService.Domain.dll
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.pdb
+C:\Users\İbrahim Berat\source\repos\MicroservicesSolution\ProductService\ProductService.Domain\obj\Debug\net8.0\ref\ProductService.Domain.dll
